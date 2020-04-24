@@ -1,0 +1,15 @@
+E:\VisualStudio\Projects\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+E:\VisualStudio\Projects\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+E:\VisualStudio\Projects\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+E:\VisualStudio\Projects\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+E:\VisualStudio\Projects\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Projects\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+E:\VisualStudio\Projects\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+C:\Users\sorokin_da\Desktop\Pyramid\HomeWork2\obj\Debug\HomeWork2.csprojResolveAssemblyReference.cache
+C:\Users\sorokin_da\Desktop\Pyramid\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\sorokin_da\Desktop\Pyramid\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\sorokin_da\Desktop\Pyramid\HomeWork2\obj\Debug\HomeWork2.pdb
+C:\Users\sorokin_da\Desktop\Pyramid\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\sorokin_da\Desktop\Pyramid\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\sorokin_da\Desktop\Pyramid\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\sorokin_da\Desktop\Pyramid\HomeWork2\bin\Debug\input.txt

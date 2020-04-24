@@ -1,0 +1,22 @@
+Teacher Petrov:
+   Faculty: Fac1:
+   Position: Repository
+   Experience (in years): 3
+   Date of birth: 14.02.1981
+   Age: 37
+
+Enrollee Sorokin:
+   Faculty: Fac1
+   Date of birth: 20.05.1999
+   Age: 19
+
+Student Petrov:
+   Faculty: Fac1:
+   Course: 3
+   Date of birth: 21.11.1999
+   Age: 19
+
+Enrollee Ivanov:
+   Faculty: Fac1
+   Date of birth: 3.06.2000
+   Age: 18
