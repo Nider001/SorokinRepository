@@ -27,8 +27,8 @@ namespace SSU.ThreeLayer.ConsolePL
                     Console.Write("6. Remove user" + Environment.NewLine);
                     Console.Write("7. Remove award" + Environment.NewLine);
                     Console.Write("8. Unassign award" + Environment.NewLine);
-                    Console.Write("9. Add data from file" + Environment.NewLine);
-                    Console.Write("10. Save database to file" + Environment.NewLine);
+                    //Console.Write("9. Add data from file" + Environment.NewLine);
+                    //Console.Write("10. Save database to file" + Environment.NewLine);
                     Console.Write("0. Exit" + Environment.NewLine);
                     action = int.Parse(Console.ReadLine());
 
@@ -104,7 +104,7 @@ namespace SSU.ThreeLayer.ConsolePL
                             Console.ReadKey();
                             break;
 
-                        case 9:
+                        /*case 9:
                             Console.Write("Enter file Name: ");
 
                             ReadFile(data, Console.ReadLine());
@@ -118,7 +118,7 @@ namespace SSU.ThreeLayer.ConsolePL
                             WriteFile(data, Console.ReadLine());
                             Console.WriteLine("Success");
                             Console.ReadKey();
-                            break;
+                            break;*/
                     }
                     Console.Clear();
                 }
@@ -142,6 +142,7 @@ namespace SSU.ThreeLayer.ConsolePL
 
         }
 
+        /*
         static void ReadFile(IDatabaseLogic databaseLogic, string filePath)
         {
             try
@@ -235,10 +236,10 @@ namespace SSU.ThreeLayer.ConsolePL
 
                     outputfile.Write("[Linkers]");
 
-                    foreach (Pair<User, Award> linker in databaseLogic.GetAllLinkers())
+                    foreach (Pair<uint, uint> linker in databaseLogic.GetAllLinkers())
                     {
-                        outputfile.WriteLine(Environment.NewLine + linker.Key.Id);
-                        outputfile.WriteLine(linker.Value.Id);
+                        outputfile.WriteLine(Environment.NewLine + linker.Key);
+                        outputfile.WriteLine(linker.Value);
                     }
                 }
             }
@@ -259,6 +260,7 @@ namespace SSU.ThreeLayer.ConsolePL
                 throw new Exception(e.Message);
             }
         }
+        */
 
         static void ShowUsers(IDatabaseLogic databaseLogic)
         {
